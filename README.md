@@ -1,4 +1,4 @@
-#Heroes of Pymoli Data Analysis
+#Heroes of Pymoli -  Data Analysis with Pandas
 
 - Of all the 780 players, the vast majority are male (83.59%). There also exists, a smaller, but notable proportion of female players (14.49%).
 
