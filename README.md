@@ -5,3 +5,5 @@
 - Our peak age demographic falls between 20-24 (41.67%) with secondary groups falling between 15-19 (25.64%)
 
 - According to the data analysis more people bought the "Oathbreaker, Last Hope of the Breaking Storm" item, so it will be more beneficial to the company if they can bring in updates on this item as often as possible because this is their most profitable and most popular item.
+
+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
